@@ -1,7 +1,8 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Welcome%20to-nl-Doyeol's%20Github&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
 ## 👨‍💻 About Me
-<i><p>✍️좋은 글이란 편하게 읽히고 이해하기 쉬워야 한다고 생각합니다. 그런 의미에서 글쓰기와 개발은 같다고 생각합니다.</p></i>
+<i><p>✍️좋은 글이란 편하게 읽히고 이해하기 쉬워야 한다고 생각합니다.</p></i>
+<i><p>그런 의미에서 글쓰기와 개발은 같다고 생각합니다.</p></i>
 <i><p>객체지향적인 코드로 개발하는 개발자, 유도열 입니다.</p></i>
 
   
