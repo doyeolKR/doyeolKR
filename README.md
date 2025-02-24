@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome to%0ADoyeol's Githubr&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Welcome%20to%0ADoyeol's%20Githubr&fontSize=90)
 
 <!--
 **doyeolKR/doyeolKR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
