@@ -6,7 +6,7 @@
 
   
 ## 🛠 Skills
-<img src="https://img.shields.io/badge/Java-C71A36?style=plastic-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Jpa-000000?style=plastic-square&logo=Jpa&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=JSS&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next-000000?style=plastic-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-C71A36?style=plastic-square&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=plastic-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Jpa-000000?style=plastic-square&logo=Jpa&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=plastic-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=plastic-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next-000000?style=plastic-square&logo=nextdotjs&logoColor=white"/>
 
 ## 💻 Experiences & Certification
 - 삼성SDS 자회사 엠로 (2023.09 ~ 2024.05)
